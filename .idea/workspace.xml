@@ -4,27 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa371df0-19a1-483a-a822-cbc118000653" name="Changes" comment="" />
+    <list default="true" id="aa371df0-19a1-483a-a822-cbc118000653" name="Changes" comment="연구노트 설정 업로드" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jangjangji"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/project34plus/project5_config.git",
-    "accountId": "90e92b6b-1a5d-45ac-a41b-06e32b70c722"
-  }
-}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -36,22 +29,12 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "hyeon04",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/포트폴리오(P-5)/gateway",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
-    "vue.rearranger.settings.migration": "true"
+    "last_opened_file_path": "D:/포트폴리오(P-5)/note",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,11 +43,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725343171539</updated>
-      <workItem from="1725601797601" duration="133000" />
     </task>
+    <task id="LOCAL-00001" summary="파일 설정 업로드">
+      <option name="closed" value="true" />
+      <created>1725431166383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725431166383</updated>
+    </task>
+    <task id="LOCAL-00002" summary="파일 설정 업로드">
+      <option name="closed" value="true" />
+      <created>1725431197895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725431197895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="파일 설정 업로드">
+      <option name="closed" value="true" />
+      <created>1725600326048</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725600326048</updated>
+    </task>
+    <task id="LOCAL-00004" summary="논문 설정 업로드">
+      <option name="closed" value="true" />
+      <created>1725600386634</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725600386634</updated>
+    </task>
+    <task id="LOCAL-00005" summary="연구노트 설정 업로드">
+      <option name="closed" value="true" />
+      <created>1725602536751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725602536751</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="파일 설정 업로드" />
+    <MESSAGE value="논문 설정 업로드" />
+    <MESSAGE value="연구노트 설정 업로드" />
+    <option name="LAST_COMMIT_MESSAGE" value="연구노트 설정 업로드" />
   </component>
 </project>
