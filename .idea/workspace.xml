@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa371df0-19a1-483a-a822-cbc118000653" name="Changes" comment="연구노트 설정 업로드" />
+    <list default="true" id="aa371df0-19a1-483a-a822-cbc118000653" name="Changes" comment="연구노트 설정 업로드">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "hyeon04",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/포트폴리오(P-5)/note",
+    "last_opened_file_path": "D:/포트폴리오(P-5)/thesis",
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
   }
 }]]></component>
@@ -84,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725602536751</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="연구노트 설정 업로드">
+      <option name="closed" value="true" />
+      <created>1725602661702</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725602661702</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
