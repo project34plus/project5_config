@@ -12,8 +12,8 @@ spring:
             allowedOrigins:
               - 'http://joyfarm.xyz'
               - 'http://www.joyfarm.xyz'
-              - 'http://joyfarm.xyz:6000'
-              - 'http://www.joyfarm.xyz:6000'
+              - 'http://joyfarm.xyz:6006'
+              - 'http://www.joyfarm.xyz:6006'
               - 'http://nonnull.life'
               - 'http://www.nonnull.life'
             allowCredentials: true # 요청시 인증정보 전송 허가
