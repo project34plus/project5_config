@@ -16,7 +16,7 @@ spring:
               - 'http://www.joyfarm.xyz:6000'
               - 'http://nonnull.life'
               - 'http://www.nonnull.life'
-            allowCredentials: true # 요청시 인증 정보 전송 허가
+            allowCredentials: true # 요청시 인증정보 전송 허가
             allowedHeaders: '*'
             allowedMethods: '*'
       discovery.locator:
