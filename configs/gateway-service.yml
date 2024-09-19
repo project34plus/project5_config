@@ -10,6 +10,7 @@ spring:
         corsConfigurations:
           '[/**]':
             allowedOrigins:
+              - 'http://localhost:6006'
               - 'http://joyfarm.xyz'
               - 'http://www.joyfarm.xyz'
               - 'http://joyfarm.xyz:6006'
