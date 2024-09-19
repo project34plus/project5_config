@@ -58,7 +58,7 @@ management:
 
 cors:
   allow:
-    origins: http://localhost:6006
+    origins: 'http://localhost:6006'
 
 springdoc:
   version: '1.0.0'
