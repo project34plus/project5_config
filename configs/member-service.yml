@@ -65,7 +65,9 @@ jwt:
 
 cors:
   allow:
-    origins: http://localhost:6006
+    origins:
+      - 'http://localhost:6006'
+      - 'http://localhost:6007'
 
 
 springdoc:
