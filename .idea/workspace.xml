@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa371df0-19a1-483a-a822-cbc118000653" name="Changes" comment="연구노트 설정 업로드">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aa371df0-19a1-483a-a822-cbc118000653" name="Changes" comment="포트대로 변경" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +18,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jangjangji"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jangjangji&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/project34plus/project5_config.git",
-    "accountId": "90e92b6b-1a5d-45ac-a41b-06e32b70c722"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/project34plus/project5_config.git&quot;,
+    &quot;accountId&quot;: &quot;90e92b6b-1a5d-45ac-a41b-06e32b70c722&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -45,7 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "jang",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/기업프로젝트/project5_react",
+    "last_opened_file_path": "C:/기업프로젝트/project5_config",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725343171539</updated>
       <workItem from="1726703862306" duration="1365000" />
+      <workItem from="1726729442211" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="파일 설정 업로드">
       <option name="closed" value="true" />
@@ -121,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725602661702</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="포트대로 변경">
+      <option name="closed" value="true" />
+      <created>1726729529834</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726729529834</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +149,7 @@
     <MESSAGE value="파일 설정 업로드" />
     <MESSAGE value="논문 설정 업로드" />
     <MESSAGE value="연구노트 설정 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="연구노트 설정 업로드" />
+    <MESSAGE value="포트대로 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="포트대로 변경" />
   </component>
 </project>
