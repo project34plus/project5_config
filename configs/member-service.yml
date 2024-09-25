@@ -68,6 +68,7 @@ cors:
     origins: 'http://nonnull.life,http://nonnull.life:6007,http://localhost:6006,http://localhost:6007'
 
 
+
 springdoc:
   version: '1.0.0'
   api-docs:

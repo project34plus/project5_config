@@ -64,7 +64,7 @@ management:
 
 cors:
   allow:
-    origins: http://localhost:6006
+    origins: 'http://nonnull.life,http://nonnull.life:6007'
 
 springdoc:
   version: '1.0.0'
