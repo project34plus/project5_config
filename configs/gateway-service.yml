@@ -11,6 +11,7 @@ spring:
           '[/**]':
             allowedOrigins:
               - 'http://localhost:6006'
+              - 'http://localhost:6007'
               - 'http://joyfarm.xyz'
               - 'http://www.joyfarm.xyz'
               - 'http://joyfarm.xyz:6006'
