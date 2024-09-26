@@ -24,14 +24,6 @@ spring:
     hibernate:
       ddlAuto: ${ddl.auto}
 
-  # 파일 업로드 용량 설정
-  servlet:
-    multipart:
-      maxFileSize: 20MB
-      maxRequestSize: 60MB
-      fileSizeThreshold: 30MB
-
-
 # 로거 설정
 logging:
   level:
@@ -49,7 +41,6 @@ eureka:
     serviceUrl:
       defaultZone: ${eurekaHost}/eureka/
 
-
 # 액추에이터 설정
 management:
   endpoint:
@@ -64,8 +55,7 @@ management:
 
 cors:
   allow:
-    origins: 'http://localhost:7000,http://localhost:7001,http://sangdam.xyz,http://www.sangdam.xyz,http://admin.sangdam.xyz:7000'
-
+    origins: 'http://nonnull.life,http://nonnull.life:6007,http://localhost:6006,http://localhost:6007'
 
 springdoc:
   version: '1.0.0'
